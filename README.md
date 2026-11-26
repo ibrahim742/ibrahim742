@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,100:38BDF8&text=Ibrahim&fontColor=E2E8F0&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20IT%20%26%20Network%20Operations&descAlignY=58&descSize=18" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0F172A,100:075985&text=Ibrahim&fontColor=FFFFFF&fontSize=64&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20IT%20%26%20Network%20Operations&descAlignY=58&descSize=18" alt="Header" width="100%"/>
 
 <a href="https://github.com/ibrahim742">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1100&color=38BDF8&center=true&vCenter=true&width=640&lines=Membangun+sistem+yang+andal+dan+rapi;Dari+kode+aplikasi+sampai+jaringan+produksi;Simple.+Reliable.+Shipped." alt="Typing SVG" />
@@ -106,6 +106,6 @@ const ibrahim = {
 
 <i>"Build reliable tools, keep it simple, ship consistently."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:38BDF8,100:0F172A&section=footer" alt="Footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:075985,50:0F172A,100:020617&section=footer" alt="Footer" width="100%"/>
 
 </div>
