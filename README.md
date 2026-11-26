@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=ibrahim742&label=Profile+Views&color=0F172A&style=for-the-badge" alt="Views"/>
 <a href="https://github.com/ibrahim742?tab=followers"><img src="https://img.shields.io/github/followers/ibrahim742?style=for-the-badge&logo=github&color=0F172A&logoColor=38BDF8" alt="Followers"/></a>
 <a href="https://github.com/ibrahim742?tab=repositories"><img src="https://img.shields.io/badge/Repositories-33+-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Repositories"/></a>
-<a href="mailto:emailkamu@example.com"><img src="https://img.shields.io/badge/Email-Contact-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email"/></a>
+<a href="https://github.com/ibrahim742"><img src="https://img.shields.io/badge/GitHub-ibrahim742-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/></a>
 
 </div>
 
@@ -82,28 +82,6 @@ flowchart LR
 
 <br/>
 
-## 📌 Proyek Pilihan
-
-> Ganti dengan repo terbaikmu. Atau gunakan fitur **Pin** di profil GitHub.
-
-| Proyek | Deskripsi | Stack |
-| :-- | :-- | :-- |
-| [`nama-repo-1`](https://github.com/ibrahim742/nama-repo-1) | Satu kalimat: masalah apa yang diselesaikan | `Laravel` `MySQL` |
-| [`nama-repo-2`](https://github.com/ibrahim742/nama-repo-2) | Satu kalimat: masalah apa yang diselesaikan | `NestJS` `TypeScript` |
-| [`nama-repo-3`](https://github.com/ibrahim742/nama-repo-3) | Satu kalimat: masalah apa yang diselesaikan | `Python` `PowerShell` |
-
-<!--
-OPSIONAL: kartu proyek visual. Hapus tabel di atas, lalu aktifkan blok ini
-dan ganti NAMA_REPO_1 dan NAMA_REPO_2 dengan nama repo aslimu.
-
-<div align="center">
-  <a href="https://github.com/ibrahim742/NAMA_REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahim742&repo=NAMA_REPO_1&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8&border_color=1E293B&border_radius=12" /></a>
-  <a href="https://github.com/ibrahim742/NAMA_REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahim742&repo=NAMA_REPO_2&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8&border_color=1E293B&border_radius=12" /></a>
-</div>
--->
-
-<br/>
-
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -123,9 +101,7 @@ dan ganti NAMA_REPO_1 dan NAMA_REPO_2 dengan nama repo aslimu.
 
 <div align="center">
 
-<a href="mailto:emailkamu@example.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email"/></a>
-<a href="https://linkedin.com/in/username-kamu"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/></a>
-<a href="https://github.com/ibrahim742"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/></a>
+<a href="https://github.com/ibrahim742"><img src="https://img.shields.io/badge/GitHub-ibrahim742-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/></a>
 
 <br/><br/>
 
